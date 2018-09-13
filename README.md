@@ -23,7 +23,7 @@ test.py:纯粹的测试代码，与项目无关，用于验证自己所想<br>
 运行：
 =====
 ```python
-python train.py<br>
+python train.py
 ```
 
 
